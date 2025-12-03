@@ -19,7 +19,13 @@ export default function Index() {
                 stroke="url(#gradient)"
                 strokeWidth="2"
               />
-              <circle cx="24" cy="24" r="8" fill="url(#gradient)" opacity="0.2" />
+              <circle
+                cx="24"
+                cy="24"
+                r="8"
+                fill="url(#gradient)"
+                opacity="0.2"
+              />
               <defs>
                 <linearGradient
                   id="gradient"
